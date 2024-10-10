@@ -1,3 +1,4 @@
+Gallery Case;Case
 Kilowatt Case;Case
 Ambush Sticker Capsule;Capsule
 Rio 2022 Champions Autograph Capsule;Capsule
